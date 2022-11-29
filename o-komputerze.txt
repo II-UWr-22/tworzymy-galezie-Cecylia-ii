@@ -1,1 +1,9 @@
 Darwin MacBook-Air-Cecylia.local 22.1.0 Darwin Kernel Version 22.1.0: Sun Oct  9 20:14:54 PDT 2022; root:xnu-8792.41.9~2/RELEASE_X86_64 x86_64
+MemTotal: 16004020 kB
+MemFree: 9297628 kB
+HighTotal: 0 kB
+HighFree: 0 kB
+LowTotal: 16004020 kB
+LowFree: 9297628 kB
+SwapTotal: 2490368 kB
+SwapFree: 2417024 kB
